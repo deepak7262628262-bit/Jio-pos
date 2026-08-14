@@ -19,5 +19,12 @@
         "password": "p2",
         "expirydate": "15-06-2028",
         "Allowoffline": false
+    },
+ {
+        "device_id": "6ae82deeced8e95f",
+        "username": "u2",
+        "password": "p1",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
     }
 ]
